@@ -2,7 +2,7 @@
 
 A simple and interactive To-Do List web application that allows users to add, manage, and delete their daily tasks. Built using HTML, CSS, and JavaScript, this project offers a smooth user interface for tracking tasks effectively.
 
-**Features:**
+##Features
 
 **Add New Tasks:** Users can input new tasks to the to-do list.
 
@@ -12,13 +12,15 @@ A simple and interactive To-Do List web application that allows users to add, ma
 
 **Responsive Design:** The application is responsive and works across different devices and screen sizes.
 
-**Technologies Used:**
+##Technologies Used
 
 **HTML5:** Structure of the application.
+
 **CSS3:** Styling and layout of the to-do list.
+
 **JavaScript:** Interactivity and dynamic task management.
 
-**How to Use:**
+##How to Use
 
 1. Type your task in the input field and click the "Add" button to add it to the list.
   
