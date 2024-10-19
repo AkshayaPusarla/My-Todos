@@ -11,3 +11,17 @@ A simple and interactive To-Do List web application that allows users to add, ma
 **Delete Tasks:** Users can remove completed or unwanted tasks from the list.
 
 **Responsive Design:** The application is responsive and works across different devices and screen sizes.
+
+**Technologies Used:**
+
+**HTML5:** Structure of the application.
+**CSS3:** Styling and layout of the to-do list.
+**JavaScript:** Interactivity and dynamic task management.
+
+**How to Use:**
+
+1. Type your task in the input field and click the "Add" button to add it to the list.
+  
+2. Click on the task to mark it as completed.
+ 
+3. Click the delete icon next to each task to remove it.
